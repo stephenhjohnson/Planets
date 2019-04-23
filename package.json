@@ -1,0 +1,23 @@
+{
+  "name": "Planets",
+  "version": "1.0.1",
+  "description": "This is a small minigame applying planetary Newtonian physics",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenhjohnson/Planets.git"
+  },
+  "author": "Stephen Johnson",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/stephenhjohnson/Planets/issues"
+  },
+  "homepage": "https://github.com/stephenhjohnson/Planets#readme"
+}
