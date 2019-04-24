@@ -10,3 +10,6 @@ To run the server execute:
 npm start
 
 This is a small minigame applying planetary Newtonian physics
+
+Note: JavaScript event listener has some delays for holding down buttons making controls difficult
+Note 2: Due to variations in framerate the gravity tracking isn't exact
